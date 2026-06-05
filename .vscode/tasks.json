@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "git-check",
+			"type": "shell",
+			"command": "git status --short --branch",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "git-check",
+			"type": "shell",
+			"command": "git status --short --branch",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
